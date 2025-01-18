@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+mport { ReactNode } from "react";
 
 export interface ReactComponentProps {
   children: ReactNode
